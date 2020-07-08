@@ -1,7 +1,9 @@
 # Mutipages ReactJS app with bootstrap
 
-###Libraries
+ReactJS web application with multiple pages example. It uses the react-bootstrap NavBar for navigation. For theming bootswatch is being used.
 
-- react-bbotstrap
+### Libraries
+
+- react-bootstrap
 - bootswatch
 - react-router-dom
