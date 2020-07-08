@@ -11,7 +11,7 @@ export default class App extends React.Component {
     return (
       <BrowserRouter>
         <MenuNavBar />
-        <main role="main" class="container">
+        <main role="main" className="container">
           <Route exact path="/" component={Home}></Route>
           <Route exact path="/page1" component={Page1}></Route>
           <Route exact path="/page2" component={Page2}></Route>

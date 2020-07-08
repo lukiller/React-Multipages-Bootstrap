@@ -2,5 +2,6 @@
 
 ###Libraries
 
+- react-bbotstrap
 - bootswatch
 - react-router-dom

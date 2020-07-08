@@ -1,7 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import "bootswatch/dist/sandstone/bootstrap.min.css";
-//import './index.css';
+import "bootswatch/dist/darkly/bootstrap.min.css";
 import App from "./App";
 import * as serviceWorker from "./serviceWorker";
 
